@@ -1,5 +1,5 @@
 <h1>Mobile App prototype development (KitchenPal)</h1>
- ### [Link of prototype](https://youtu.be/AOC-wo0NgmU)
+ ### [Link of prototype](https://www.figma.com/proto/woIJ3CAmbvuD9xkB99jZ8l/Group-7-%2B-KitchenPal?type=design&node-id=201-2842&t=tJSMlNG9yOb8HFKL-1&scaling=scale-down&page-id=201%3A2841&mode=design)
 
 <h2>Description</h2>
 Mainly created with figma
