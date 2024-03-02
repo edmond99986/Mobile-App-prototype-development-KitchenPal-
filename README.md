@@ -24,19 +24,19 @@ Different new function are added to make it more interactive than tranditional f
 
 <h2>Prototype</h2>
 <p >
-Start Screen <br/>
+<b>Start Screen<b/> <br/>
 <img src="https://i.imgur.com/ugWvoNd.jpg" height="80%" width="80%" alt="KitchenPal"/>
 <br />
 <br />
-Add stories  <br/>
+<b>Add stories<b/>  <br/>
 <img src="https://i.imgur.com/9mDCxhD.png" height="80%" width="80%" alt="KitchenPal"/>
 <br />
 <br />
-Recipe stories <br/>
+<b>Recipe stories<b/> <br/>
 <img src="https://i.imgur.com/AXHekrj.png" height="80%" width="80%" alt="KitchenPal"/>
 <br />
 <br />
-Recipe details  <br/>
+<b>Recipe details</b>  <br/>
 <img src="https://i.imgur.com/uvZLOex.png" height="80%" width="80%" alt="KitchenPal"/>
 </p>
 
